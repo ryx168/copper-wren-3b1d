@@ -1,0 +1,42 @@
+{
+  "id": "example-zh",
+  "live": false,
+  "status": "completed",
+  "duration_s": 0,
+  "call_sid": null,
+  "provider": "scripted",
+  "model": "scripted",
+  "turns": 7,
+  "summary": "Status: completed. Scripted dry run, 7 turns; no model was used.",
+  "finished_at": "2026-11-12 03:20 UTC",
+  "transcript": [
+    {
+      "who": "bot",
+      "text": "您好，我是 XO Tours 的 Harry 的 AI 助理。询问餐厅 11 月 20 日星期四晚上 7 点能否接待一个 12 人的旅游团用餐，是否需要订金。"
+    },
+    {
+      "who": "them",
+      "text": "金龍酒家，您好。"
+    },
+    {
+      "who": "bot",
+      "text": "谢谢，请问可以帮我确认一下吗？"
+    },
+    {
+      "who": "them",
+      "text": "12 位，20 号晚上 7 点，我看一下。可以的，两张圆桌。"
+    },
+    {
+      "who": "bot",
+      "text": "好的，谢谢。我重复一下：12 位，20 号晚上 7 点，我看一下。可以的，两张圆桌。这样就可以了。"
+    },
+    {
+      "who": "them",
+      "text": "10 人以上要收 100 元订金，套餐每位 38 元。"
+    },
+    {
+      "who": "bot",
+      "text": "谢谢您的时间，再见。"
+    }
+  ]
+}

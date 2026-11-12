@@ -1,0 +1,42 @@
+{
+  "id": "example",
+  "live": false,
+  "status": "completed",
+  "duration_s": 0,
+  "call_sid": null,
+  "provider": "scripted",
+  "model": "scripted",
+  "turns": 7,
+  "summary": "Status: completed. Scripted dry run, 7 turns; no model was used.",
+  "finished_at": "2026-11-12 03:20 UTC",
+  "transcript": [
+    {
+      "who": "bot",
+      "text": "Hello, this is an AI assistant calling on behalf of Harry at XO Tours. Ask whether the restaurant can seat a tour group of 12 people for dinner on Thursday 20 November at 7 pm, and whether a deposit is needed."
+    },
+    {
+      "who": "them",
+      "text": "Golden Dragon, how can I help you?"
+    },
+    {
+      "who": "bot",
+      "text": "Thank you. Could you confirm that for me?"
+    },
+    {
+      "who": "them",
+      "text": "Twelve people on the twentieth at seven. Let me check. Yes, we can do that, two round tables."
+    },
+    {
+      "who": "bot",
+      "text": "Great, thank you. Just to repeat: Twelve people on the twentieth at seven. Let me check. Yes, we can do that, two round tables. That is all I needed."
+    },
+    {
+      "who": "them",
+      "text": "We ask for a one hundred dollar deposit for groups over ten, and the set menu is thirty-eight per person."
+    },
+    {
+      "who": "bot",
+      "text": "Thank you for your time, goodbye."
+    }
+  ]
+}
