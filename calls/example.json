@@ -1,0 +1,27 @@
+{
+  "to": "+16045550100",
+  "to_name": "Golden Dragon Restaurant",
+  "on_behalf_of": "Harry at XO Tours",
+  "caller_name": "Harry's assistant",
+  "language": "en-US",
+  "goal": "Ask whether the restaurant can seat a tour group of 12 people for dinner on Thursday 20 November at 7 pm, and whether a deposit is needed.",
+  "facts": [
+    "Group size: 12 people, one table or two tables together is fine",
+    "Date and time: Thursday 20 November 2026, 7:00 pm",
+    "Budget: about 40 dollars per person, set menu is fine",
+    "Call-back number: 604-555-0199, ask for Harry"
+  ],
+  "disclose_ai": true,
+  "max_minutes": 5,
+  "max_turns": 20,
+  "live": false,
+  "simulate": {
+    "script": [
+      "Golden Dragon, how can I help you?",
+      "Twelve people on the twentieth at seven. Let me check. Yes, we can do that, two round tables.",
+      "We ask for a one hundred dollar deposit for groups over ten, and the set menu is thirty-eight per person.",
+      "Six zero four, five five five, zero one nine nine, Harry. Got it, we'll hold it for forty-eight hours.",
+      "You're welcome, goodbye."
+    ]
+  }
+}
